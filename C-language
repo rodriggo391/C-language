@@ -1,0 +1,40 @@
+#include <stdio.h>
+
+void venderIngresso(){
+ingressoVendido1 = nome1 + cpf1 + anoNascimento1;
+
+string nome1 = "Joao Carvalho";
+int cpf1 = 123.456.789.90;
+int anoNascimento1 = 1997;
+
+ingressoVendido2 = nome2 + cpf2 + anoNascimento2;
+string nome2 = "Daniela Gomes";
+int cpf2 = 123.478.867.70;
+int anoNascimento2 = 1987;
+    
+printf("O primeiro ingresso vendido é "%s"\n "%d" \n "%d" \n", nome1, cpf1, anoNascimento1);
+printf("Digite o primeiro ingresso vendido: ", ingressoVendido1)
+scanf("%c", &ingressoVendido1);
+printf("O segundo ingresso vendido é "%s"\n "%d" \n "%d" \n", nome2, cpf2, anoNascimento2);
+printf("Digite o segundo ingresso vendido: ", ingressoVendido2)
+scanf("%c", &ingressoVendido2);
+int main() {
+ listarIngresso(ingressoListado){
+ingressoListado = ingressoVendido1 + ingressoVendido2;
+}
+int main(){
+ingressoValidado = ingressoListado;
+printf("Digite os ingressos validados: \n');
+return ingressoListado();
+scanf("%c", &ingressoValidado);
+return ingressoValidado;
+return 0;
+
+Int main()
+{
+     fflush(stdin);
+     return venderIngresso();
+     return ingressoListado();
+     return ingressoValidado();
+     return 0;
+}
